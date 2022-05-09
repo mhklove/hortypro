@@ -1,1 +1,3 @@
-# hortypro
+# maven-project
+
+Simple Maven Project
